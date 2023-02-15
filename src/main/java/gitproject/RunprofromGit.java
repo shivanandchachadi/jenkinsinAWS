@@ -7,6 +7,7 @@ public class RunprofromGit {
 
 		
 		System.out.println("Running project directly from github");
+		System.out.println("trying to run jenkins automatically from push method");
 	}
 
 }
